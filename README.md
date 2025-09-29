@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/mayankdhangar2408/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/mayankdhangar2408/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0645-set-mismatch](https://github.com/mayankdhangar2408/LeetCode/tree/master/0645-set-mismatch) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/mayankdhangar2408/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/mayankdhangar2408/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/mayankdhangar2408/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 ## Bit Manipulation
 |  |
 | ------- |
