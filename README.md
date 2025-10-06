@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/mayankdhangar2408/LeetCode/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/mayankdhangar2408/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/mayankdhangar2408/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/mayankdhangar2408/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mayankdhangar2408/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/mayankdhangar2408/LeetCode/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/mayankdhangar2408/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Greedy
 |  |
 | ------- |
