@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/mayankdhangar2408/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1612-avoid-flood-in-the-city](https://github.com/mayankdhangar2408/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/mayankdhangar2408/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/mayankdhangar2408/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/mayankdhangar2408/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Prefix Sum
 |  |
@@ -31,22 +32,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/mayankdhangar2408/LeetCode/tree/master/0217-contains-duplicate) |
 | [0645-set-mismatch](https://github.com/mayankdhangar2408/LeetCode/tree/master/0645-set-mismatch) |
 | [1612-avoid-flood-in-the-city](https://github.com/mayankdhangar2408/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/mayankdhangar2408/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/mayankdhangar2408/LeetCode/tree/master/0217-contains-duplicate) |
 | [0645-set-mismatch](https://github.com/mayankdhangar2408/LeetCode/tree/master/0645-set-mismatch) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/mayankdhangar2408/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Binary Search
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/mayankdhangar2408/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mayankdhangar2408/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [1612-avoid-flood-in-the-city](https://github.com/mayankdhangar2408/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/mayankdhangar2408/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/mayankdhangar2408/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/mayankdhangar2408/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/mayankdhangar2408/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -88,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/mayankdhangar2408/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mayankdhangar2408/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/mayankdhangar2408/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Greedy
 |  |
 | ------- |
@@ -97,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/mayankdhangar2408/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
+## Counting
+|  |
+| ------- |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/mayankdhangar2408/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 <!---LeetCode Topics End-->
