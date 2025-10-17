@@ -62,11 +62,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/mayankdhangar2408/LeetCode/tree/master/0067-add-binary) |
 | [0645-set-mismatch](https://github.com/mayankdhangar2408/LeetCode/tree/master/0645-set-mismatch) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/mayankdhangar2408/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/mayankdhangar2408/LeetCode/tree/master/0067-add-binary) |
 | [1642-water-bottles](https://github.com/mayankdhangar2408/LeetCode/tree/master/1642-water-bottles) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/mayankdhangar2408/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3336-water-bottles-ii](https://github.com/mayankdhangar2408/LeetCode/tree/master/3336-water-bottles-ii) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/mayankdhangar2408/LeetCode/tree/master/0067-add-binary) |
 | [1642-water-bottles](https://github.com/mayankdhangar2408/LeetCode/tree/master/1642-water-bottles) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/mayankdhangar2408/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3336-water-bottles-ii](https://github.com/mayankdhangar2408/LeetCode/tree/master/3336-water-bottles-ii) |
@@ -124,5 +127,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/mayankdhangar2408/LeetCode/tree/master/0067-add-binary) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/mayankdhangar2408/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 <!---LeetCode Topics End-->
