@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/mayankdhangar2408/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/mayankdhangar2408/LeetCode/tree/master/0067-add-binary) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/mayankdhangar2408/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 <!---LeetCode Topics End-->
