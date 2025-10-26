@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/mayankdhangar2408/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/mayankdhangar2408/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1612-avoid-flood-in-the-city](https://github.com/mayankdhangar2408/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
+| [2169-simple-bank-system](https://github.com/mayankdhangar2408/LeetCode/tree/master/2169-simple-bank-system) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/mayankdhangar2408/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/mayankdhangar2408/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/mayankdhangar2408/LeetCode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/mayankdhangar2408/LeetCode/tree/master/0645-set-mismatch) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/mayankdhangar2408/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1612-avoid-flood-in-the-city](https://github.com/mayankdhangar2408/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
+| [2169-simple-bank-system](https://github.com/mayankdhangar2408/LeetCode/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/mayankdhangar2408/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/mayankdhangar2408/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Sorting
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/mayankdhangar2408/LeetCode/tree/master/0067-add-binary) |
 | [1642-water-bottles](https://github.com/mayankdhangar2408/LeetCode/tree/master/1642-water-bottles) |
+| [2169-simple-bank-system](https://github.com/mayankdhangar2408/LeetCode/tree/master/2169-simple-bank-system) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/mayankdhangar2408/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3336-water-bottles-ii](https://github.com/mayankdhangar2408/LeetCode/tree/master/3336-water-bottles-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/mayankdhangar2408/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -152,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2174-next-greater-numerically-balanced-number](https://github.com/mayankdhangar2408/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
+## Design
+|  |
+| ------- |
+| [2169-simple-bank-system](https://github.com/mayankdhangar2408/LeetCode/tree/master/2169-simple-bank-system) |
 <!---LeetCode Topics End-->
