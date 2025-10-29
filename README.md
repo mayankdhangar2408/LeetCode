@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/mayankdhangar2408/LeetCode/tree/master/0067-add-binary) |
 | [0645-set-mismatch](https://github.com/mayankdhangar2408/LeetCode/tree/master/0645-set-mismatch) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/mayankdhangar2408/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/mayankdhangar2408/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Math
 |  |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/mayankdhangar2408/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/mayankdhangar2408/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3336-water-bottles-ii](https://github.com/mayankdhangar2408/LeetCode/tree/master/3336-water-bottles-ii) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/mayankdhangar2408/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/mayankdhangar2408/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/mayankdhangar2408/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Simulation
