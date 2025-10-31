@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/mayankdhangar2408/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/mayankdhangar2408/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/mayankdhangar2408/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/mayankdhangar2408/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/mayankdhangar2408/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/mayankdhangar2408/LeetCode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/mayankdhangar2408/LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-simple-bank-system](https://github.com/mayankdhangar2408/LeetCode/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/mayankdhangar2408/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/mayankdhangar2408/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/mayankdhangar2408/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Sorting
 |  |
 | ------- |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/mayankdhangar2408/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/mayankdhangar2408/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3336-water-bottles-ii](https://github.com/mayankdhangar2408/LeetCode/tree/master/3336-water-bottles-ii) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/mayankdhangar2408/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/mayankdhangar2408/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/mayankdhangar2408/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/mayankdhangar2408/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
