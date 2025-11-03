@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mayankdhangar2408/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/mayankdhangar2408/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/mayankdhangar2408/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/mayankdhangar2408/LeetCode/tree/master/0283-move-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/mayankdhangar2408/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/mayankdhangar2408/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0645-set-mismatch](https://github.com/mayankdhangar2408/LeetCode/tree/master/0645-set-mismatch) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/mayankdhangar2408/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mayankdhangar2408/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0283-move-zeroes](https://github.com/mayankdhangar2408/LeetCode/tree/master/0283-move-zeroes) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/mayankdhangar2408/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Greedy
 |  |
