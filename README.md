@@ -176,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2169-simple-bank-system](https://github.com/mayankdhangar2408/LeetCode/tree/master/2169-simple-bank-system) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/mayankdhangar2408/LeetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
