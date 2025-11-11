@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/mayankdhangar2408/LeetCode/tree/master/0283-move-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/mayankdhangar2408/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/mayankdhangar2408/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0474-ones-and-zeroes](https://github.com/mayankdhangar2408/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0645-set-mismatch](https://github.com/mayankdhangar2408/LeetCode/tree/master/0645-set-mismatch) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/mayankdhangar2408/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/mayankdhangar2408/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/mayankdhangar2408/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0474-ones-and-zeroes](https://github.com/mayankdhangar2408/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/mayankdhangar2408/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/mayankdhangar2408/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/mayankdhangar2408/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/mayankdhangar2408/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/mayankdhangar2408/LeetCode/tree/master/0067-add-binary) |
+| [0474-ones-and-zeroes](https://github.com/mayankdhangar2408/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/mayankdhangar2408/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/mayankdhangar2408/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/mayankdhangar2408/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
